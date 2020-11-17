@@ -1,3 +1,6 @@
-# Welcome to my blog
+# Blog practice
 
-I'm glad you are here. I plan to talk about ...
+## Why blog?
+
+ - Important to test out skills
+ - Necessary for Hello, world
